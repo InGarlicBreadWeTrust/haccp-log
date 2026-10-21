@@ -9,7 +9,7 @@ description = "Local-first HACCP food-safety logging: time-temperature abuse det
 readme = "README.md"
 requires-python = ">=3.10"
 license = { text = "MIT" }
-authors = [{ name = "rzl" }]
+authors = [{ name = "InGarlicBreadWeTrust" }]
 keywords = [
     "haccp", "food-safety", "cold-chain", "audit", "tamper-evident",
     "hash-chain", "temperature", "checklist", "standlib",
